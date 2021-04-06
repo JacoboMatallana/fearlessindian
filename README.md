@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @fearlessindian
 - 👀 I’m interested in space, systems engineering, software, and robotics
 - 🌱 I’m currently studying Space Systems Engineering for a bachelor's degree and Astrophysics for an associate's degree.
-- 💞️ I’m looking to collaborate on ...
 - 📫 Reach me on discord fearlessidian#5580 or email fearlesshawk1@gmail.com
 
 <!---
